@@ -1,7 +1,9 @@
-
 def using_for
-	checklist = 1..10
-	#your code here
+  
+	charm_count = 1..10
+	for charm in charm_count
+	puts "Wingardium Leviosa"
+ end
 end
 
 
